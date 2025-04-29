@@ -1,0 +1,9 @@
+{
+	"name": "adfppatwari",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a16e7bd0-8882-4229-9f33-e3da1b8c87a9",
+		"tenantId": "460aa2e2-5e67-45c1-a7d7-9884e3489d77"
+	}
+}
